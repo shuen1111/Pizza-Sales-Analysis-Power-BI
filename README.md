@@ -50,6 +50,7 @@ Evaluates individual pizza performance based on three key metrics.
 - `Pizza_Sales_Analysis.pbix` – Interactive Power BI dashboard.
 - `Pizza_Dashboard.docx` – DOCX export of the two-page dashboard for easy viewing.
 - `Sales_dashboard.png` – Dashboard preview.
+  ![Sales Dashboard](Sales_dashboard.png)
 - `Best_Worst_dashboard.png` – Dashboard preview.
 
 ## Key Business Insights
