@@ -46,10 +46,11 @@ Evaluates individual pizza performance based on three key metrics.
 | Lowest Total Orders | Brie Carre Pizza |
 
 ## Project Files
+- `README.md` – Project documentation.
 - `Pizza_Sales_Analysis.pbix` – Interactive Power BI dashboard.
 - `Pizza_Dashboard.docx` – DOCX export of the two-page dashboard for easy viewing.
-- `README.md` – Project documentation.
-- `dashboard_screenshot.png` – Dashboard preview.
+- `Sales_dashboard.png` – Dashboard preview.
+- `Best_Worst_dashboard.png` – Dashboard preview.
 
 ## Key Business Insights
 - Weekdays, especially Friday afternoons, represent important ordering periods.
