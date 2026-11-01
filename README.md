@@ -52,6 +52,7 @@ Evaluates individual pizza performance based on three key metrics.
 - `Sales_dashboard.png` – Dashboard preview.
   ![Sales Dashboard](Sales_dashboard.png)
 - `Best_Worst_dashboard.png` – Dashboard preview.
+  ![Best Worst Dashboard](Best_Worst_dashboard.png)
 
 ## Key Business Insights
 - Weekdays, especially Friday afternoons, represent important ordering periods.
